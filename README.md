@@ -7,6 +7,7 @@ Preview-->
 https://github.com/user-attachments/assets/294835aa-704d-4193-9ba3-939c12a55937
 
 Crop Prediction App
+
 This is a crop prediction app built using the IBM WatsonX.ai Studio. The app predicts the best crops to plant based on various factors, helping farmers make informed decisions to optimize crop yield and efficiency. The API used for predictions was created using a custom CSV file that contains relevant agricultural data for training.
 
 Features
